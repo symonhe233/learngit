@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 This is one line for branch test.
 This is test for bug branch.
 https://www.liaoxuefeng.com
+This is the test for branch manage.
